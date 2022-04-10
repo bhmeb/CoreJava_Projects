@@ -1,0 +1,10 @@
+package Stream_substring;
+
+public class LazyLoadingExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

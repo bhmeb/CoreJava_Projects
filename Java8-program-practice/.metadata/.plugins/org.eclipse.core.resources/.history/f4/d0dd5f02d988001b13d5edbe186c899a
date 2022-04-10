@@ -1,0 +1,20 @@
+package Basic_Lanbda_demo;
+
+public class Greeter {
+
+	public static void main(String[] args) {
+
+		Greeting MyLambdaFunction = () -> System.out.println("Hello world!");
+		MyLambdaFunction.perform();
+	}
+}
+
+
+
+
+
+
+
+
+
+

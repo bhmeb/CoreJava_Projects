@@ -1,0 +1,15 @@
+package Basic_demo;
+
+public class Greeter {
+	
+	public void greet(Greeting greeting) {
+		greeting.perform();
+		//System.out.println("Hello world!");
+	}
+
+	public static void main(String[] args) {
+		
+		Greeter obj = new Greeter();
+		//obj.greet();
+	}
+}

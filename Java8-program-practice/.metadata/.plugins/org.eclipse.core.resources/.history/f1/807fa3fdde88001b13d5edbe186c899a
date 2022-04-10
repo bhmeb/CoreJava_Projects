@@ -1,0 +1,10 @@
+package TypeReferenceDemo;
+
+public class TypeReference {
+
+	public static void main(String[] args) {
+		
+		MyInterface L = s->s.length();
+		L.getLength("Print length");
+	}
+}

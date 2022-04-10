@@ -1,0 +1,8 @@
+package RunnableExample;
+
+public class Snippet {
+	public static void main(String[] args) {
+		L.getLength("Print length")
+	}
+}
+

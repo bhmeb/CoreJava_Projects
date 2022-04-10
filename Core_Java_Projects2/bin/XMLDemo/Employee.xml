@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Root SYSTEM "EmployeeDTD.dtd">
+
+<Root>
+
+<Child aid="FirstChild">
+<name>Raj</name>	
+<id>100</id>
+<address>Kolkata</address>
+</Child>
+
+<Child aid="SecondChild">
+<name>Aryan</name>
+<id>200</id>
+<address>Mumbai</address>
+</Child>
+
+</Root>

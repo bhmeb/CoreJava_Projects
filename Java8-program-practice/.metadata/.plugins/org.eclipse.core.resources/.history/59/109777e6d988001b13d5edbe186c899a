@@ -1,0 +1,36 @@
+package Basic_Lanbda_demo;
+
+public class Greeter {
+
+	public static void main(String[] args) {
+
+		//Implementing function - java 8
+		Greeting MyLambdaFunction = () -> System.out.println("Hello world!");
+		MyLambdaFunction.perform();
+		
+		
+		//implementing class - java 7
+		GreetingImp obj = new GreetingImp();
+		obj.perform();
+		
+		//Inner class without naming any class
+		Greeting innerClass = new Greeting() {
+			
+			@Override
+			public void perform() {
+				System.out.println("Hello world!");
+			}
+		};
+		
+	}
+}
+
+
+
+
+
+
+
+
+
+

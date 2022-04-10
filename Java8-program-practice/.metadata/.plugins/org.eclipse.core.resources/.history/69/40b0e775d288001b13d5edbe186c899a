@@ -1,0 +1,6 @@
+package Basic_demo;
+
+public interface Greeting {
+	public void perform();
+
+}

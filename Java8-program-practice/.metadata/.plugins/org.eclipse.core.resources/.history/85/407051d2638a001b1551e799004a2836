@@ -1,0 +1,10 @@
+package Parallel_Streams;
+
+public class ForkJoinPoolEx {
+
+    public static void main(String[] args) {
+	// TODO Auto-generated method stub
+
+    }
+
+}

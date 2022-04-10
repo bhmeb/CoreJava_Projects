@@ -1,0 +1,9 @@
+package Basic_demo;
+
+public class HelloWorldGreetingImp implements Greeting {
+
+	@Override
+	public void perform() {
+		System.out.println("Hello world!");
+	}
+}

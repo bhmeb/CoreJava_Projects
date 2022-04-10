@@ -1,0 +1,5 @@
+package Stream_Reduce;
+
+public class JMHStreamReduceBenchMark {
+
+}

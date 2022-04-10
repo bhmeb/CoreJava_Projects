@@ -1,0 +1,11 @@
+package Basic_demo;
+
+public class HelloWorldGreetingImp implements Greeting {
+
+	@Override
+	public void perform() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
